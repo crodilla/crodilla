@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a beginner data engineer. Doing my best to become professional soon!
 
 <!--
 **crodilla/crodilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
