@@ -11,7 +11,7 @@ as I try to combine it with my passion for data analysis.
 - Python
 
 ## Contact:
-[LinkedIn] (https://es.linkedin.com/in/cristina-rodilla-hernandez)
+[[LinkedIn](https://es.linkedin.com/in/cristina-rodilla-hernandez)]
 <!--
 **crodilla/crodilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
