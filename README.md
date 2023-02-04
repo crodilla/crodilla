@@ -1,8 +1,17 @@
 ### Hi there my name is Cristina Rodilla :hugs:
-I'm a beginner data engineer.
+I'm a beginner data scientist.
 Doing my best to become professional soon!
 
-[linkedin] (https://es.linkedin.com/in/cristina-rodilla-hernandez)
+Currently developing my PhD in Human Genetics 	:woman_scientist: ,
+as I try to combine it with my passion for data analysis.
+
+## Programming languages:
+- R
+- Bash
+- Python
+
+## Contact:
+[LinkedIn] (https://es.linkedin.com/in/cristina-rodilla-hernandez)
 <!--
 **crodilla/crodilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
