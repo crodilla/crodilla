@@ -13,7 +13,8 @@ as I try to combine it with my passion for data analysis.
 ### Contact:
 [![LinkedIn](./LinkedIn_Logo.gif)](https://es.linkedin.com/in/cristina-rodilla-hernandez) 
 
-[![E-mail](:e-mail:)](cristinarodillahernandez@gmail.com)
+:e-mail: [E-mail](cristinarodillahernandez@gmail.com)
+
 <!--
 **crodilla/crodilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
