@@ -6,9 +6,9 @@ Currently developing my PhD in Human Genetics 	:woman_scientist: ,
 as I try to combine it with my passion for data analysis.
 
 ### Programming languages:
+- Python
 - R
 - Bash
-- Python
 
 ### Contact:
 [![LinkedIn](./LinkedIn_Logo.gif)](https://es.linkedin.com/in/cristina-rodilla-hernandez) 
